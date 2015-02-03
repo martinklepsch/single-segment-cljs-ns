@@ -1,4 +1,4 @@
-(ns app
+(ns my.app
 	(:require [om.core :as om]
 					  [om.dom :as d]))
 
